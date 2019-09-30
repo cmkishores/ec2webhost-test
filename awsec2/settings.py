@@ -79,7 +79,7 @@ DATABASES = {
         'NAME': 'cmkishoresproj',
         'USER': 'cmkishores', 
         'PASSWORD': 'cmkishores123',
-        'HOST': 'db',
+        'HOST': 'localhost',
         'PORT': '',
     }
 }
